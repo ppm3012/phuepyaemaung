@@ -18,11 +18,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/phue pyae maung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="phue pyae maung" height="30" width="40" /></a>
-<a href="https://kaggle.com/phue pyae maung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="phue pyae maung" height="30" width="40" /></a>
-<a href="https://fb.com/phue pyae maung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="phue pyae maung" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/phue-pyae-maung-b29b49203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="phue pyae maung" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/phuepyaemaung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="phue pyae maung" height="30" width="40" /></a>
+<a href="https://www.facebook.com/phuepyae.maung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="phue pyae maung" height="30" width="40" /></a>
 <a href="https://medium.com/@phuepyaemaung2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@phuepyaemaung2000" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jan_jan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jan_jan" height="30" width="40" /></a>
+<a href="https://leetcode.com/Jan_Jan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jan_jan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
