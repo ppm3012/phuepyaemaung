@@ -1,5 +1,3 @@
-# phuepyaemaung
-
 <h1 align="center">Hi 👋, I'm Phue Pyae Maung</h1>
 <h3 align="center">A Knowledge Engineering Student who has a high interest in Computer Vision.</h3>
 
