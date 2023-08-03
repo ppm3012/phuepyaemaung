@@ -10,7 +10,7 @@
 
 - 📝 I sometimes write articles on [Medium](Medium)
 
-- 📫 How to reach me **phuepyaemaung2000@gmail.com**
+- 📫 How to reach me **phuepyaemaung@gmail.com**
 
 - ⚡ Fun fact **I love memes**
 
